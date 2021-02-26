@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <header>Hello World!</header>
+      <header>Hello Redux Toolkit World!</header>
     </div>
   );
 }
